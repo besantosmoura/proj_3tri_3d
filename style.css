@@ -14,11 +14,11 @@ h1{text-align:center;
     color: white;
 }
 img{margin-left: 585px;
+    width: 400px;
 }
 footer{text-align:center;
 }
-.p5{margin-left: 300px;
-}
+
 .p3{color: cyan;}
 .p4{color: gold;}
 .p6{color: chartreuse;}

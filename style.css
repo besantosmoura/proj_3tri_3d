@@ -3,7 +3,7 @@ body {background-color:rgb(255, 123, 145)
 .p1{text-align:center;  
     color: rgb(255, 0, 119);  
 }
-.p1{border-style: outset;
+.p1{border-style: ridge;
     border-color:rgb(255, 154, 181);
     border-width:5px;
     background-color:rgb(219, 67, 219);

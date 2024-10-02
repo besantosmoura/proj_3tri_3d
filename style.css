@@ -1,12 +1,12 @@
-body {background-color:rgb(255, 123, 145)
+body {background-color:#e79cd4
 }
 .p1{text-align:center;  
-    color: rgb(255, 0, 119);  
+    color: rgb(255, 255, 255);  
 }
 .p1{border-style: ridge;
-    border-color:rgb(255, 154, 181);
+    border-color:rgb(221, 3, 61);
     border-width:5px;
-    background-color:rgb(219, 67, 219);
+    background-color:rgb(153, 34, 153);
 }
 h2{text-align:center
 }

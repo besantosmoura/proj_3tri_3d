@@ -1,12 +1,12 @@
-body {background-color:pink
+body {background-color:rgb(255, 123, 145)
 }
 .p1{text-align:center;  
-    color: white;  
+    color: rgb(255, 0, 119);  
 }
 .p1{border-style: outset;
-    border-color:blue;
+    border-color:rgb(255, 154, 181);
     border-width:5px;
-    background-color:purple;
+    background-color:rgb(219, 67, 219);
 }
 h2{text-align:center
 }
